@@ -1,0 +1,10 @@
+this
+file
+is
+ment 
+to 
+be
+reversed
+using
+a
+stack

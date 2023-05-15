@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\GitRepo\Algebra\SPA\Exercise04\Task02\Source.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task02.vcxproj -> D:\GitRepo\Algebra\SPA\Exercise04\x64\Debug\Task02.exe
