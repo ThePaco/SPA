@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\GitRepo\Algebra\SPA\Exercise13\Exercise13\Source.cpp(42,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\GitRepo\Algebra\SPA\Exercise13\Exercise13\Source.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Table.cpp
+  Generating Code...
+  Exercise13.vcxproj -> D:\GitRepo\Algebra\SPA\Exercise13\x64\Debug\Exercise13.exe
