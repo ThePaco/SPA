@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\GitRepo\SPA\Final\Consultations\Ishod2_z23\Source.cpp(33,37): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\GitRepo\SPA\Final\Consultations\Ishod2_z23\Source.cpp(40,37): warning C4390: ';': empty controlled statement found; is this the intent?
+  Ishod2_z23.vcxproj -> D:\GitRepo\SPA\Final\Consultations\x64\Debug\Ishod2_z23.exe

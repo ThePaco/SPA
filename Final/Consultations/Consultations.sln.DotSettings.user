@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=06CCDB574D049D40A68F5C3825BEF309/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=06CCDB574D049D40A68F5C3825BEF309/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=06CCDB574D049D40A68F5C3825BEF309/Name/@EntryValue">Ishod3_z33</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=06CCDB574D049D40A68F5C3825BEF309/ProjectGuid/@EntryValue">07C0D0472865ED4EBCF4C048BF492260</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">06CCDB574D049D40A68F5C3825BEF309</s:String></wpf:ResourceDictionary>

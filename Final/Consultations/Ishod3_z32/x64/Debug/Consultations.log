@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\GitRepo\SPA\Final\Consultations\Consultations\Source.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Consultations.vcxproj -> D:\GitRepo\SPA\Final\Consultations\x64\Debug\Ishod3_z32.exe
