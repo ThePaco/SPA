@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\GitRepo\SPA\Final\Practice\Task5\Source.cpp(36,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\GitRepo\SPA\Final\Practice\Task5\Source.cpp(41,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\GitRepo\SPA\Final\Practice\Task5\Source.cpp(46,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\GitRepo\SPA\Final\Practice\Task5\Source.cpp(51,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Task5.vcxproj -> D:\GitRepo\SPA\Final\Practice\x64\Debug\Task5.exe
